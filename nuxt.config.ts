@@ -14,4 +14,4 @@ export default defineNuxtConfig({
   routeRules: {
     '/': { redirect: { to: '/introduction/getting-started' } }
   }
-})
+});
