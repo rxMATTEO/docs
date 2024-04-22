@@ -34,6 +34,7 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
-    }
+    },
+    layout: 'padding-box'
   }
 })
