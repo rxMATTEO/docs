@@ -12,6 +12,6 @@ export default defineNuxtConfig({
     locales: ['ru-RU']
   },
   routeRules: {
-    '/': { redirect: { to: '/introduction/getting-started' } }
+    '/': { redirect: { to: '/getting-started' } }
   }
 });
