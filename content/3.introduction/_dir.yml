@@ -2,6 +2,6 @@ icon: ph:star-duotone
 navigation.redirect: /introduction/getting-started
 title: "Введение"
 navigation: {
-              title: '123',
-              description: '123',
+              title: 'Виджеты',
+              description: 'Виджеты',
 }
